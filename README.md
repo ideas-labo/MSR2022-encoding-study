@@ -1,5 +1,5 @@
 # Introduction
-This project contains all the codes and dataset used in the paper ***'Does Configuration Encoding Matter in Learning Software Performance? An Empirical Study on Encoding Schemes'***. Specifically, the documents include:
+This project contains all the codes and dataset used in the *MSR 2022* paper ***'Does Configuration Encoding Matter in Learning Software Performance? An Empirical Study on Encoding Schemes'***. Specifically, the documents include:
 
 - **Encoding.py**: 
 
