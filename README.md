@@ -42,7 +42,7 @@ Details of the datasets are given in our paper.
 <!-- --- -->
 
 # Installation
-Download all the codes into the same folder.
+Download all the files into the same folder, install python and required packages and you are free to run the codes. 
 
 <!-- --- -->
 
