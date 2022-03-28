@@ -42,9 +42,9 @@ Details of the datasets are given in our paper.
 <!-- --- -->
 
 # Installation
- 1. Download all the files into the same folder
- 2. Install the specified version of python and tensorflow
- 3. Run Encoding.py and install the missing packages according to the runtime messages. 
+ 1. Download all the files into the same folder.
+ 2. Install the specified version of python and tensorflow.
+ 3. Run Encoding.py and install all missing packages according to the runtime messages. 
 
 <!-- --- -->
 
