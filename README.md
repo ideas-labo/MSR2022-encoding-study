@@ -21,12 +21,6 @@ Each txt file corresponds to a subject system, and contains the RMSE and trainin
 
 <!-- --- -->
 
-# Prerequisites
- - Python 3.6 - 3.7
- - Tensorflow 1.x
-
-<!-- --- -->
-
 # Datasets
 Five subject systems and their datasets are applied in this study as given below:
  - MongoDB
@@ -41,8 +35,16 @@ Details of the datasets are given in our paper.
 
 <!-- --- -->
 
+# Prerequisites
+ - Python 3.6 - 3.7
+ - Tensorflow 1.x
+
+<!-- --- -->
+
 # Installation
-Download all the files into the same folder, install python and required packages and you are free to run the codes. 
+ 1. Download all the files into the same folder
+ 2. Install the specified version of python and tensorflow
+ 3. Run Encoding.py and install the missing packages according to the runtime messages. 
 
 <!-- --- -->
 
