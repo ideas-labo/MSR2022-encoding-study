@@ -5,7 +5,7 @@ Learning and predicting the performance of a configurable software system helps 
 
 Our **key findings** reveal that: (1) conducting trial-and-error to find the best encoding scheme in a case by case manner can be rather expensive, requiring up to 400$+$ hours on some models and systems; (2) the one-hot encoding often leads to the most accurate results while the scaled label encoding is generally weak on accuracy over different models; (3) conversely, the scaled label encoding tends to result in the fastest training time across the models/systems while the one-hot encoding is the slowest; (4) for all models studied, label and scaled label encoding often lead to relatively less biased outcomes between accuracy and training time, but the paired model varies according to the system.
 
-We discuss the **actionable suggestions** derived from our findings, hoping to provide a better understanding of this topic for the community. For example, we recommand using neural network paired with one-hot encoding for the best accuracy, while using linear regression paired with scaled label encoding for the fastest training. 
+We discuss the **actionable suggestions** derived from our findings, hoping to provide a better understanding of this topic for the community. For example, we recommend using neural network paired with one-hot encoding for the best accuracy, while using linear regression paired with scaled label encoding for the fastest training. 
 
 # Documents
 Specifically, the documents include:
